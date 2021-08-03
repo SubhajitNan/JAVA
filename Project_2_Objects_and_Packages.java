@@ -13,7 +13,4 @@ public class ClassAndObjects {
 	}
 }
 
-Output :-
-
-Input the number of minutes: 3456789
-3456789 minutes is approximately 6 years and 210 days
+*****************************************************************************************************************************
